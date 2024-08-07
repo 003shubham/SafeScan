@@ -17,8 +17,6 @@ Vulnerability Scanner is a comprehensive tool designed to help you identify and 
 
 - Python
 - Flask
-- BeautifulSoup
-- Requests
 - HTML/CSS
 - JavaScript
 
