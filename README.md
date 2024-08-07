@@ -26,13 +26,15 @@ Vulnerability Scanner is a comprehensive tool designed to help you identify and 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/vulnerability-scanner.git
-   cd vulnerability-scanner
+   git clone https://github.com/003shubham/SafeScan.git
+   cd SafeScan
 
 2. **Create a virtual environment and activate it**
    ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   pip install virtualenv
+   virtualenv env
+   .\env\Scripts\activate.bat
+   # On Linux use `source env/bin/activate`
 
 4. **Install the required packages**
    ```sh
