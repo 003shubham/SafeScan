@@ -1,7 +1,7 @@
-Flask==2.0.2
-requests==2.26.0
-beautifulsoup4==4.10.0
-urllib3==1.26.7
+Flask
+requests
+beautifulsoup4
+urllib3
 
 
 
@@ -17,6 +17,7 @@ urllib3==1.26.7
 # pip install Flask
 # pip install requests
 # pip install beautifulsoup4
+# pip install urllib3
 
 
 # run code
